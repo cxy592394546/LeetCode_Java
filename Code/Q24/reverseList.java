@@ -1,4 +1,4 @@
-package Q23;
+package Q24;
 
 public class reverseList {
     public class ListNode {
