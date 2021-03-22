@@ -1,4 +1,4 @@
-package Q49;
+package Q51;
 
 public class Solution {
 }
